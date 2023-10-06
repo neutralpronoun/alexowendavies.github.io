@@ -10,7 +10,8 @@ paperurl: 'http://academicpages.github.io/files/resonet-page.pdf'
 
 [comment]: <> (citation: 'Davies, Alex O. &#40;2022&#41;. &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1&#40;1&#41;.')
 ---
-This paper is about the number 1. The number 2 is left for future work.
+
+[comment]: <> (This paper is about the number 1. The number 2 is left for future work.)
 
 [Download paper here](http://academicpages.github.io/files/resonet-page.pdf)
 
