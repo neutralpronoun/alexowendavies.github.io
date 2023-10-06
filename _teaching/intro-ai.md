@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/intro-ai
 venue: "University of Bristol, Data Science MSc"
-date: 2022-09-01
+date: 2023-01-01
 location: "Bristol, UK"
 ---
 
