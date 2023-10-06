@@ -7,5 +7,6 @@ We find that the Gated Recurrent Attention Network (GRAN) extends well to social
 date: 2022-15-12
 venue: 'arXiv'
 paperurl: 'http://academicpages.github.io/files/resonet-page.pdf'
+---
 
 [Download paper here](http://academicpages.github.io/files/resonet-page.pdf)

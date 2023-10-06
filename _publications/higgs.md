@@ -6,5 +6,6 @@ excerpt: 'Large graphs are present in a variety of domains, including social net
 date: 2023-20-06
 venue: 'arXiv'
 paperurl: 'https://neutralpronoun.github.io/alexowendavies.github.io/files/resonet-page.pdf'
+---
 
 [Download paper here](https://neutralpronoun.github.io/alexowendavies.github.io/files/resonet-page.pdf)
