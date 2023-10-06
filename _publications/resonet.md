@@ -30,4 +30,4 @@ People currently used rule-based models (fit a distribution, follow N set steps 
 GNNs are more recent generators, and are doing very well on molecules.
 Here we show that they also do better on social networks.
 
-[Download paper here](http://academicpages.github.io/files/resonet-page.pdf)
+[Download paper here](https://neutralpronoun.github.io/alexowendavies.github.io/files/resonet-page.pdf)
