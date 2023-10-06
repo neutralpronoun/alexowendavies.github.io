@@ -7,10 +7,4 @@ date: 2023-20-06
 venue: 'arXiv'
 paperurl: 'http://academicpages.github.io/files/resonet-page.pdf'
 
-[comment]: <> (citation: 'Davies, Alex O. &#40;2022&#41;. &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1&#40;1&#41;.')
----
-[comment]: <> (This paper is about the number 1. The number 2 is left for future work.)
-
 [Download paper here](http://academicpages.github.io/files/resonet-page.pdf)
-
-[comment]: <> (Recommended citation: Your Name, You. &#40;2009&#41;. "Paper Title Number 1." <i>Journal 1</i>. 1&#40;1&#41;.)
