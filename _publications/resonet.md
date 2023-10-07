@@ -6,7 +6,7 @@ excerpt: 'Social network analysis faces profound difficulties in sharing data be
 We find that the Gated Recurrent Attention Network (GRAN) extends well to social networks, and in comparison to a benchmark popular rule-based generation Recursive-MATrix (R-MAT) method, is better able to replicate realistic structural dynamics. We find that GRAN is more computationally costly than R-MAT, but is not excessively costly to employ, so would be effective for researchers seeking to create datasets of synthetic social networks.'
 date: 2022-12-15
 venue: 'arXiv'
-paperurl: 'http://academicpages.github.io/files/resonet-page.pdf'
+paperurl: 'http://neutralpronoun.github.io/alexowendavies.github.io/resonet-page.pdf'
 ---
 
 Abstract
