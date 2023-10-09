@@ -1,7 +1,7 @@
 ---
 title: 'General GCL'
-date: 2023-07-10
-permalink: /posts/general-gcl/
+date: 2023-07-11
+permalink: /posts/2023/11/general-gcl/
 tags:
   - graphs
 ---
