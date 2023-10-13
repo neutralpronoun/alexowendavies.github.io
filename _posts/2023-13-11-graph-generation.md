@@ -7,8 +7,11 @@ tags:
   - graphs
 ---
 
-## Here is essentially a big list of graph generation papers.
+Here is essentially a big list of graph generation papers.
 It might be useful to someone, I just haven't put it together into a proper review yet.
+
+
+---
 
 # Review Protocol
 

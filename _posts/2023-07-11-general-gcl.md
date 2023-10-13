@@ -9,15 +9,22 @@ tags:
 Adversarial contrastive learning can represent multiple graph types at once.
 What does this mean? Not sure yet, but I have learnt to embed fun interactive Bokeh dashboards.
 
-<iframe src="https://neutralpronoun.github.io/alexowendavies.github.io/files/bokeh/bokeh-embedding-dashboard.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="500"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+[//]: # (<iframe src="https://neutralpronoun.github.io/alexowendavies.github.io/files/bokeh/bokeh-embedding-dashboard.html")
 
-[Full screen interactive example](https://neutralpronoun.github.io/alexowendavies.github.io/files/bokeh/bokeh-embedding-dashboard.html)
+[//]: # (    sandbox="allow-same-origin allow-scripts")
+
+[//]: # (    width="100%")
+
+[//]: # (    height="500")
+
+[//]: # (    scrolling="no")
+
+[//]: # (    seamless="seamless")
+
+[//]: # (    frameborder="0">)
+
+[//]: # (</iframe>)
+
+[//]: # ([Full screen interactive example]&#40;https://neutralpronoun.github.io/alexowendavies.github.io/files/bokeh/bokeh-embedding-dashboard.html&#41;)
 
 ------
