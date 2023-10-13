@@ -1,6 +1,6 @@
 ---
 title: 'Graph Generation Papers'
-date: 2023-13-11
+date: 2023-11-13
 bibliography: references.bib
 permalink: /posts/2023/11/graph-generation/
 tags:
