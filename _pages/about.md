@@ -12,7 +12,7 @@ About me
 ======
 
 Hello! I'm a PhD student with the Interactive AI Centre for Doctoral Training here at the University of Bristol (UK).
-I work mostly with graph neural networks, often with generative models and social networks, but am interested science in general.
+I work mostly with graph neural networks, often with generative models and social networks, but am interested in science in general.
 I'll add pages here as I go, for new projects and so on, but write the summaries in a more informal way than the papers that go with them.
 
 [My CV is available to download here](https://neutralpronoun.github.io/alexowendavies.github.io/files/CV_alex_davies-4.pdf)
